@@ -48,7 +48,7 @@ Before running this locally you must have Node installed
 
 ## Development
 
-1. ```git clone https://github.com/jui2010/GoodFood```
+1. ```git clone https://github.com/AbhishekShukla1289/GoodFood```
 2. ```npm install```
 3. ```npm start```
 
