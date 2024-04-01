@@ -60,4 +60,3 @@ Include a location-wise grouping of retailers who sell sustainable/healthy produ
 Include more dimensions for customers to predict 
 Improve CO2 calculations
 
-Slides: https://speakerdeck.com/meiradania/good-food-presentation-gs1-hackathon-2020-09-19-b9808cb9-ab13-4925-bebe-ff545e5220e3
